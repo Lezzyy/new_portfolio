@@ -591,10 +591,8 @@ h3 {
 /*FOOTER START*/
 
 .contact #emoji{
-  position: absolute;
-  width: 20%;
-  margin-left:39%;
-  top: -70%;
+  display: block;
+  margin: auto;
 }
 
 .contact {
@@ -602,18 +600,6 @@ h3 {
   background-color: black;
   height: 220px;
 }
-
-/*.contact img{
-  position: absolute;
-  width: 5%;
-  margin-left:46%;
-  top: 13%;
-}*/
-
-#contact h2{
-  margin-top: 120px;
-}
-
 
 #contact a{
   text-decoration: none;
